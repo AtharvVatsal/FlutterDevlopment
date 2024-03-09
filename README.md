@@ -3,9 +3,13 @@ This repository is a record of my journey learning Flutter development from scra
 This repository will contain code for various small projects I create while learning Flutter.  Expect to see:
 
 ->Basic UI elements (buttons, text fields, etc.)
+
 ->Working with Layouts (Rows, Columns, Stacks, etc.)
+
 ->State Management (Simple examples)
+
 ->User Interaction and Functionality
+
 ->Maybe even some basic Animations!
 
 Learning Resources:
